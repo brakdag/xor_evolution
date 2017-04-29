@@ -1,0 +1,25 @@
+{
+  "name": "xorevolution",
+  "version": "1.0.0",
+  "description": "xor problem with neural networks",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakdag/xor_evolution.git"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "evolution",
+    "xor"
+  ],
+  "author": "Gustavo Ferreyra brakdag@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakdag/xor_evolution/issues"
+  },
+  "homepage": "https://github.com/brakdag/xor_evolution#readme"
+}
