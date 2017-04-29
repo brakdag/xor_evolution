@@ -1,0 +1,1 @@
+node .\node_modules\jsdoc\jsdoc.js .\js\Neuroevolution.js
